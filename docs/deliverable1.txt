@@ -1,0 +1,17 @@
+
+
+Idea 5:
+Corona Nearby app 
+(data)API: https://covidtracking.com/data/api, google news api and locational api.
+https://developers.google.com/android/exposure-notifications/exposure-notifications-api?p=exposure_notifications_update&visit_id=637491235178403741-4012966233&rd=2
+Third party OAuth: facebook, google, etc.
+
+Using the corona tracking api we can pull data from covid tracking api. Using this information
+we can pull information about the places and how severe the covid is in that area.
+We can then also use locational tracking api based on giving your OAuth data from
+facebook or google whether you have been into these exposed area or not. Prompting 
+user to give permission to use locational data comes first. We can use firebase to
+handle storing future locational footprint for the user that gave by cross referencing
+use a newly made cookie for the user and the OAuth sign in. Doing all this we can give an
+indicator in the app for the user's own threat level and surrouding threat level on google maps.
+
