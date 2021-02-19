@@ -1,5 +1,23 @@
 
 
+Idea 3:
+BU class review web application
+The goal of the web application would be to create a comprehensive destination 
+for all information related to classes. Unlike RateMyProfessor, the website 
+would be centered around information about the classes. Students who have been 
+confirmed to have taken the class would anonymously upload reviews of the 
+class and the professor. Other than reviews for individual classes, the site 
+could also give advice on what courses to take when, as well as on courseload. 
+In our database, we would store class and teacher information, reviews, as well 
+as user information. We could use the RateMyProfessor API as well as Reddit API 
+to include user information from other sources about the class and the professor. 
+We would display the ratings of the professors that have taught the class as well 
+as snippets of text from Reddit comments and posts on the class. For third party 
+identification, we could use Facebook and Google
+
+
+
+
 Idea 5:
 Corona Nearby app 
 (data)API: https://covidtracking.com/data/api, google news api and locational api.
