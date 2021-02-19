@@ -1,5 +1,22 @@
 
 
+
+Idea 2:
+Recipe Suggestions app
+API: Edamam recipe search API, TheMealDB API, possibly Bon Appetit API
+The goal and functionality of the recipe suggestions app would be very similar to IBM's
+ill-fated Chef Watson, albeit with a considerably more limited scope. Upon startup, the
+app would ask users to input the ingredients that the user has on hand (i.e. in their
+refridgerator, in their pantry). Using both the Edamam recipe search API and TheMealDB
+API, the application would provide a list of recipe suggestions that include and use the
+user-inputted ingredients. Further functionality would include the ability to star/like
+recipes for future reference and the ability to "quick-select" previous ingredients
+(ingredients history). Users would be able to sign into the application with Facebook,
+Google, or other popular third-party sign-on options. The application's database would
+then store, the login information, the user's ingredient history, recipe history, and
+so forth.
+
+
 Idea 3:
 BU class review web application
 The goal of the web application would be to create a comprehensive destination 
