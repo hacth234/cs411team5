@@ -34,6 +34,23 @@ identification, we could use Facebook and Google
 
 
 
+Idea 4:
+Pet babysit app
+API: pet facts api, google map api, Twitter api.  
+The purpose of this app is to match pet owners with pet sitters. On startup, this app will 
+prompt the user to login in with Twitter or Facebook using OAuth. Next, the user got to choose 
+whether they are a pet owner/pet sitter. Pet owners will upload a picture of their pet, along 
+with a short description. This information will be shown to pet sitters nearby(within a radius 
+by user input), who can then choose which pet they want to take care of. We could also use the 
+Twitter api to get a user's Twitter timeline, try to anaylze this person's pet preference and 
+make more accurate pet suggestions. In our database, we will store users' babysit record, their 
+pet preference, and whether they had any bad behaviors such as pet abuse. Users being reported 
+for too many times will be temporarily or maybe permanently banned from pet sitting. In addition 
+to match pet owner with pet babysitter, this app will also provide some pets facts to help people 
+better taking care of theirpets. By pulling data from pet facts api, we can show the corresponding 
+pet facts to pet owners and sitters depending on their pet type.
+
+
 
 Idea 5:
 Corona Nearby app 
