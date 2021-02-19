@@ -1,4 +1,13 @@
 
+Idea 1:
+Spotify Lyrics app
+API: Spotify API, Musixmatch API
+The idea is for a web app where users login with their Spotify accounts (via 
+Facebook, Google, Apple, etc). The app would display the lyrics of the current song 
+that the user is listening to. It would be like a karoake app where users can sing
+along to the song they are listening to. Using the Spotify API the app would know 
+which song, and using the Musixmatch API, it would know the lyrics for the
+corresponding song.
 
 
 Idea 2:
