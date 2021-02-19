@@ -1,13 +1,18 @@
 
-Idea 1:
+Idea 1 Based on Feedback from Discussion:
 Spotify Lyrics app
-API: Spotify API, Musixmatch API
+API: Twitter API, Spotify API, Musixmatch API
 The idea is for a web app where users login with their Spotify accounts (via 
-Facebook, Google, Apple, etc). The app would display the lyrics of the current song 
-that the user is listening to. It would be like a karoake app where users can sing
+Facebook, Google, Apple, etc). Using twitter api we can grab the mood of the person
+based on the person's tweets. Then from spotify api we can grab playlists that
+represent that mood, somehow with a database of happy or sad or motivational list
+of songs. The app would then display the lyrics of the current song 
+that the user is listening to from the playlist. 
+It would be like a karoake app where users can sing
 along to the song they are listening to. Using the Spotify API the app would know 
 which song, and using the Musixmatch API, it would know the lyrics for the
 corresponding song.
+
 
 
 Idea 2:
