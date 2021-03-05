@@ -1,0 +1,5 @@
+Finding Class Number user story
+As a user or a guest I would want to be able to view the class name given a class number code i.e. cs411 -> Gives back Software Engineering with Donham and its associated records.
+Vice Versa typing in a class name or some parts of the class name will bring back and its associated data objects. i.e. Soft… -> autofills cs411 associated records
+There is also an “advanced search” option where the user would be able to search	by the college or department code the class belongs to. 
+Choosing “CAS” should show the department/subject codes that belong to CAS. Choosing the department code should in turn display the class codes.
