@@ -1,0 +1,4 @@
+# Sign-up/Login User Story
+
+As a user, I have the option to sign up and log in using my school email, google account, or facebook account. If I have not logged in before, I will be directed to a new user registration page where I can enter my preferred display name, school, school year, and classes that I have taken and am taking. If I have logged in before, I will be directed to the homepage where I will find a search bar to look up a class. If my login information is incorrect, the application will prompt for the correct info again until it’s correct, or I can have the option to use the application as a guest.
+If logged in, I should have a session cookie that can recognize my identity as the user as I peruse the application. If done correctly I would not need to log in upon visiting another part of the site.
