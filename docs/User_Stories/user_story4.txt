@@ -1,0 +1,6 @@
+Viewing professors/write reviews for a professor
+As a logged in user, I can input a professor’s name and see ratings, reviews for this professor. 
+The source would be RateMyProfessor, past reviews in our app. 
+There will be an option to vote for a review as “helpful”, and displayed reviews will be in order of most “helpful” to least. After, the reviews will be sorted chronologically (newest to oldest).
+I also have the option to write a review and rate this professor. There is a text box at the bottom of the page, where I can type my review.
+As a guest user, I would not have the option to write a review or rate the professor.
