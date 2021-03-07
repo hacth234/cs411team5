@@ -3,3 +3,12 @@ As a user or a guest I would want to be able to view the class name given a clas
 Vice Versa typing in a class name or some parts of the class name will bring back and its associated data objects. i.e. Soft… -> autofills cs411 associated records
 There is also an “advanced search” option where the user would be able to search	by the college or department code the class belongs to. 
 Choosing “CAS” should show the department/subject codes that belong to CAS. Choosing the department code should in turn display the class codes.
+As a user or a guest, I want to search for a class and its reviews 
+I would input the class code (ex. CAS CS 411) in an input format similar to that of the Student Link
+The website will not accept classes written in the wrong format
+I will be directed to the page for that class and I will have the option to filter by professor,  semester, and source
+Sources will be reviews written directly on the app, RateMyProfessor, and Reddit posts
+Third party sources will be scraped comments/reviews formatted in the way a native review would look like
+When logged in, I would have the option to leave a review; however, guests would also have the ability to view any classes/reviews
+There will be an option to vote for a review as “helpful”, and displayed reviews will be in order of most “helpful” to least. After, the reviews will be sorted chronologically newest to oldest).
+As a logged in user, I want to leave a review for a class I have taken
