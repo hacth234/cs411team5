@@ -1,4 +1,10 @@
 GITHUB LINK TO THE CODE:
-
+https://github.com/hacth234/cs411groupapp1
 
 HEROKU LINK TO THE DEPLOYED CODE:
+https://tranquil-chamber-98565.herokuapp.com
+
+Important directories for the deployed code:
+https://tranquil-chamber-98565.herokuapp.com/displayapis/searchrecipe
+https://tranquil-chamber-98565.herokuapp.com/displayapis/searchsymptom
+
