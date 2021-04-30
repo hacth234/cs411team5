@@ -25,9 +25,9 @@ All the requirements are in the pipfile and was configured accordingly every tim
 
 Two project zip files:  <br />
 (Choose local_host for local host testing otherwise just use the website https://fierce-bastion-88171.herokuapp.com/  <br />
-For only code review and the cleanest version of the code just review recipealertv1_oauthheroku.zip both of them has the same  <br />
-functionality but recipealertv1_oauthheroku.zip is more updated with better comments ):  <br />
+For only code review and the cleanest version of the code just review recipealertv1_oauthheroku.zip both of them has the same functionality but recipealertv1_oauthheroku.zip is more updated with better comments ):  <br />
 <br />
+Files: <br />
 recipealertv1_oauth_localhost.zip  <br />
 recipealertv1_oauthheroku.zip  <br />
 FinalDocumentation.pdf <br />
