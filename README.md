@@ -7,6 +7,11 @@ also the deployed app that has the api searching function for deliverable 3. <br
 Final Deliverable -> Done <br />
 <br />
 
+
+APIS USED: 
+https://api.fda.gov/ <br />
+http://www.recipepuppy.com/api  <br />
+
 ##IMPORTANT FILES SUBMITTED FOR FINAL PROJECT: In "FinalProject" directory <br />
 ##Most of the older documentation files are updated in this directory also. <br />
 The deployed heroku website for our Final Web App RecipeAlert:  <br />
