@@ -1,4 +1,5 @@
-# cs411team5 <br />
+# cs411team5: Jun Hao Lei, Rae Lin, Esther Kang, Lisa Chen, Xiaoran Tang <br />
+# Emails: junhlei@bu.edu, rae422@bu.edu, estkang@bu.edu, lchen16@bu.edu,  rayi@bu.edu <br />
 Deliverable 1 -> Done <br />
 Deliverable 2 -> Done <br />
 Deliverable 3 -> Because of API issues BU classroom idea changed to Recipe/Health app. Done <br />
